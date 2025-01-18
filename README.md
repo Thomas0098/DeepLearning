@@ -7,7 +7,7 @@
 
 [Machine-Learning](https://github.com/shunliz/Machine-Learning)
 
-### 数学基础
+### 数学基础 test
 
 ![](notes/Images/MathematicalBasis.png)
 
